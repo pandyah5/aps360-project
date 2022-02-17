@@ -2,9 +2,10 @@
 
 ### Data Visualization
 
-Add description and google collab link here (Grace).
+# Add description and google collab link here (Grace).
 
-description:
+# description:
+A data visualization for fask mask detection with bounding boxes representing facial landmark coordinates, where blue/red denotes with/without mask. 
 
-google collab link: 
-https://drive.google.com/file/d/1gtsc3UkXzl3pJH9-8LdB1P_sSjZOcPfk/view?usp=sharing
+# google collab link:
+https://colab.research.google.com/drive/1ZYqEwAyIAUPj4cEycwNsr-X3gw9qmiR7?usp=sharing
