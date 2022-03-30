@@ -15,8 +15,9 @@ https://colab.research.google.com/drive/1ZYqEwAyIAUPj4cEycwNsr-X3gw9qmiR7?usp=sh
 ### YOLOv5 Implementation
 The implementation can be found at https://colab.research.google.com/drive/1qCH9SRBMhp64o7_sGS3pyk9x63wkq-4e?usp=sharing
 
+### Synthetic Data Pipeline
+The implementation is at: https://colab.research.google.com/drive/1Pbw4lSM7c7sqSVV93sgxwkpwZHj2T5Nj?usp=sharing
+
 ### The synthetic dataset
 The synthetic dataset can be found at: https://drive.google.com/drive/folders/1byUB4MnyWunlktqvdiZ-YhX6WlVuspI2?usp=sharing
 
-### The Synthetic Data Pipeline
-The code to generate the synthetic data can be found here: https://colab.research.google.com/drive/1Pbw4lSM7c7sqSVV93sgxwkpwZHj2T5Nj?usp=sharing
