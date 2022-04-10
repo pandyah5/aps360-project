@@ -23,5 +23,6 @@ The synthetic dataset can be found at: https://drive.google.com/drive/folders/1b
 
 ### Final presentation
 Our final team presentation slides can be found here: https://docs.google.com/presentation/d/1S_75WLyj9Hjq8idrsdOPUSI6e3l-AlnW3ObTenCfevc/edit?usp=sharing
+
 Our final team presentation video can be found here: https://youtu.be/pMxhyyHi40k
 
