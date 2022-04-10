@@ -21,3 +21,7 @@ The implementation is at: https://colab.research.google.com/drive/1Pbw4lSM7c7sqS
 ### The synthetic dataset
 The synthetic dataset can be found at: https://drive.google.com/drive/folders/1byUB4MnyWunlktqvdiZ-YhX6WlVuspI2?usp=sharing
 
+### Final presentation
+Our final team presentation slides can be found here: https://docs.google.com/presentation/d/1S_75WLyj9Hjq8idrsdOPUSI6e3l-AlnW3ObTenCfevc/edit?usp=sharing
+Our final team presentation video can be found here: https://youtu.be/pMxhyyHi40k
+
